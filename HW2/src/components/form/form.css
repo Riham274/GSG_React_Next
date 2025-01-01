@@ -1,0 +1,33 @@
+
+#root{
+    font-family: 'Times New Roman', Times, serif;
+}
+.form-wrapper{
+    border: 2px solid rgb(152, 149, 149) ;
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+input:first-of-type {
+    padding: 10px;
+    border: 3px solid #6eb56c;
+    border-radius: 5px;
+    font-size: 17px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input:last-of-type{
+    padding: 10px;
+    background-color: #6eb56c;
+    border: 3px solid #6eb56c;
+    border-radius: 5px;
+    font-size: 17px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
